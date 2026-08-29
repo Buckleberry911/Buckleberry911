@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sarthak 👋
 
-<!--
-**Buckleberry911/Buckleberry911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beginner cybersecurity learner from India, building a foundation in Linux, Python, networking, and web security.
 
-Here are some ideas to get you started:
+## Currently Learning
+- Linux & CLI — fundamentals, permissions, bash automation
+- Python — scripting, log parsers, small tools
+- Networking — TCP/IP, DNS/HTTP analysis via Wireshark
+- Web Security & CTFs — TryHackMe, PicoCTF, CyLab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repository Highlights
+- Beginner lab write-ups with step-by-step methodology
+- Practical scripts with source code and setup steps
+- CTF notes with structured lessons learned
+
+*All security practice is conducted in legal, isolated, authorized environments only.*
